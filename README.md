@@ -1,1 +1,3 @@
-# radon-transform
+# Radon transform C++
+
+C++ version of Radon transform.
