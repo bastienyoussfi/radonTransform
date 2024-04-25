@@ -1,3 +1,33 @@
-# Radon transform C++
+# Radon Transform in C++
 
-C++ version of Radon transform.
+This project implements the Radon Transform in C++. The Radon Transform is a mathematical transformation used in medical imaging, particularly in computed tomography (CT) scans, to reconstruct an image from its projections.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+
+The Radon Transform is a technique used in medical imaging and other fields to extract information about an object by measuring how it absorbs or reflects radiation from different angles. This project provides a C++ implementation of the Radon Transform algorithm.
+
+## Dependencies
+
+This project has the following dependencies:
+
+- C++ compiler (supporting C++11 or later)
+- [Optional] OpenCV library for image input/output
+
+## Installation
+
+To build the project, follow these steps:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/radon-transform-cpp.git
