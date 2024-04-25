@@ -31,3 +31,23 @@ To build the project, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/radon-transform-cpp.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd radon-transform-cpp
+
+3. Compile the source code using your preferred C++ compiler:
+
+   ```bash
+   g++ -std=c++11 -o radon_transform radon_transform.cpp
+
+## Usage
+To use the Radon Transform implementation, follow these steps:
+
+1. Ensure you have compiled the source code (see Installation section).
+1. Run the compiled executable with input parameters:
+
+   ```bash
+   ./radon_transform input_image.jpg output_image.jpg
+
