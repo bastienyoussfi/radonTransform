@@ -54,5 +54,5 @@ Replace input_image.jpg with the path to your input image and output_image.jpg w
 
 ## Contact
 
-For questions or feedback, please contact Bastien Youssfi.
+For questions or feedback, please contact Bastien Youssfi (bastien.youssfi@gmail.com).
 
