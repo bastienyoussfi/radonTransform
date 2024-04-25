@@ -8,8 +8,6 @@ This project implements the Radon Transform in C++. The Radon Transform is a mat
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -46,8 +44,15 @@ To build the project, follow these steps:
 To use the Radon Transform implementation, follow these steps:
 
 1. Ensure you have compiled the source code (see Installation section).
-1. Run the compiled executable with input parameters:
+2. Run the compiled executable with input parameters:
 
    ```bash
    ./radon_transform input_image.jpg output_image.jpg
+
+Replace input_image.jpg with the path to your input image and output_image.jpg with the desired output file name.
+3. The program will compute the Radon Transform of the input image and save the result to the specified output file.
+
+## Contact
+
+For questions or feedback, please contact Bastien Youssfi.
 
